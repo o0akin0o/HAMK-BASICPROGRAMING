@@ -64,6 +64,7 @@ public class MethodEx1 {
 		
 		return area;
 	}
+	
 	public static void printTableSorted (String[] table) {
 		Arrays.sort(table);
 		for (int i=0; i < table.length;i++) {
